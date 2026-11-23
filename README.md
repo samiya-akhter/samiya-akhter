@@ -1,3 +1,5 @@
 <p align="center">
-  <img src="assets/readme_banner.gif" alt="Hi, I'm Samiya Akhter" width="100%">
+  <picture>
+  <img src="assets/readme.gif" alt="Hi, I'm Samiya Akhter" width="100%">
+  </picture>
 </p>
